@@ -8,7 +8,7 @@ Welcome to the official repository of documentation and resources for the **Repa
 
 ## 📌 What is this repository?
 
-This repository gathers and organizes **the entire administrative, technical, legal, and operational framework** that made it possible to deploy 12 itinerant Repair Café sessions across the province of Badajoz under a public procurement scheme.
+This repository gathers and organizes **the entire administrative, technical, legal, and operational framework** that made it possible to deploy 12 Repair Café sessions in the province of Badajoz under a public procurement scheme.
 
 Its main goal is to serve as an **open and replicable guide** for any group, association, or public administration looking to launch community repair workshops and foster technological sovereignty in their local territory.
 
