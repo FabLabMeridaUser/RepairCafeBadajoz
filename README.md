@@ -58,9 +58,10 @@ All project documentation is structured into **5 thematic folders** for easy nav
 
 ## 🚀 How to use these resources to replicate the model?
 
-1. **If you want to pitch the idea to your Local Government / Council:** Check the procurement guide in [`01_Licitacion_y_Administracion/`](./01_Licitacion_y_Administracion/) and the Technical Narrative in [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).  
-2. **If you are preparing your first live event:** Download the ready-to-use field forms in [`04_Toolkit_Operativo_Campo/`](./04_Toolkit_Operativo_Campo/).  
-3. **If you need to assemble the workshop toolset:** Review the tool inventory in [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).
+1. **Before anything, read** [./01_RepairCaféSupportDoc_ESP.pdf](./01_RepairCaféSupportDoc_ESP.pdf) , it's the document guide.
+2. **If you want to pitch the idea to your Local Government / Council:** Check the procurement guide in [`01_Licitacion_y_Administracion/`](./01_Licitacion_y_Administracion/) and the Technical Narrative in [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).  
+3. **If you are preparing your first live event:** Download the ready-to-use field forms in [`04_Toolkit_Operativo_Campo/`](./04_Toolkit_Operativo_Campo/).  
+4. **If you need to assemble the workshop toolset:** Review the tool inventory in [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).
 
 ---
 
