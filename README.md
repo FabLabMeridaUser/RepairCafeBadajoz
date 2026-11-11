@@ -1,74 +1,70 @@
-[![Español](https://img.shields.io/badge/Language-Español-blue.svg)](./README_ES.md) 
+# 🛠️ Repair Café Badajoz Project
 
-# 🛠️ Repair Café Badajoz — Circular Economy & Community Repair Project
+[![Español](https://img.shields.io/badge/Language-Español-blue.svg)](./README_es.md) [![License](https://img.shields.io/badge/License-CC--BY--4.0-green.svg)](#license-and-authorship)
 
-Welcome to the central documentation repository for the **Repair Café Badajoz** project, an initiative led by the **FabLab Mérida Association** in collaboration with the **Diputación de Badajoz** and hosted at **El Hospital Centro Vivo**.
+Welcome to the official repository of documentation and resources for the **Repair Café Badajoz Project**, an initiative developed by the **Asociación FabLab Mérida** in collaboration with the **Diputación Provincial de Badajoz** (Department of Environmental Sustainability, Energy, and Green Territory).
 
-This document serves as a **Level 1 Reading Guide (Central Index)** to help technicians, administrators, volunteers, and collaborators quickly navigate and manage all project documentation.
+---
 
-## 📌 1\. Executive Summary (Level 1\)
+## 📌 What is this repository?
 
-The **Repair Café Badajoz** project promotes local sustainability through practical, hands-on repair workshops. Far from being a traditional technical repair service, it is designed as a **third place** centered on **technological sovereignty**, **collaborative learning**, and **community empowerment**.
+This repository gathers and organizes **the entire administrative, technical, legal, and operational framework** that made it possible to deploy 12 itinerant Repair Café sessions across the province of Badajoz under a public procurement scheme.
 
-### 🎯 Key Objectives
+Its main goal is to serve as an **open and replicable guide** for any group, association, or public administration looking to launch community repair workshops and foster technological sovereignty in their local territory.
 
-1. **Awareness:** Promote the culture of "*fixing instead of throwing away*".  
-2. **Technological Sovereignty:** Empower citizens to diagnose, repair, and maintain their devices autonomously.  
-3. **Community:** Build local synergies between technicians, volunteers, and participants.
+---
 
-## 🗂️ 2\. Navigation by User Profile (Level 2\)
+## 💡 Project at a Glance
 
-Select your role to access the relevant documentation:
-
-| Profile / Role | Key Information | Direct Access |
-| :---- | :---- | :---- |
-| 👥 **Public & Participants** | Event posters, space guidelines, feedback forms. | [`/04_Media_and_Outreach`](./04_Media_and_Outreach/) |
-| 🔧 **Technicians & Volunteers** | Triage guidelines, tool inventory, safety protocols. | [`/01_Work_Plan`](./01_Work_Plan/) |
-| 🏛️ **Administration & Management** | Technical proposal, tender documents (SDA), contracts, minutes, and budgeting. | [`/02_Management_and_Admin`](./02_Management_and_Admin/) |
-
-## 📁 3\. Repository Structure (Level 3\)
-
-```
-.
-├── README.md                      # This document (Central index & starter guide)
-├── 01_Work_Plan/                  # "Learning by Repairing" methodology, protocols, schedules
-│   ├── Technical_Proposal.pdf     # Project technical narrative & methodology
-│   ├── Safety_Protocol.md         # Workshop safety rules and legal disclaimer
-│   └── Event_Schedule.xlsx        # Calendar & session planning
-├── 02_Management_and_Admin/       # Administrative & legal documentation
-│   ├── Tender_Documents/          # Specifications and procurement docs (Diputación de Badajoz)
-│   ├── Budget_and_Inventory.xlsx  # Cost breakdown, purchases, and tool stock
-│   └── Minutes_and_Receipts/      # Calls for tenders, reception acts, and certificates
-├── 03_Resources_and_Training/     # Educational materials and open-source references
-│   ├── Manuals_and_Guides/        # Links to iFixit, RepairMonitor, and repair manuals
-│   └── Volunteer_Workshops/       # 3D printing, soldering, and basic electronics guides
-└── 04_Media_and_Outreach/         # Communication & impact assessment
-    ├── Posters_and_SocialMedia/   # Digital and print promotional assets
-    └── Impact_and_Evaluation/     # Survey templates and repair log records
-```
-
-## 📅 4\. Roadmap & Session Dynamics
-
-Each Repair Café session follows this operational workflow:
-
-```
-[Reception & Registration (GDPR)] ➔ [Triage & Diagnosis] ➔ [Collaborative Repair] ➔ [Evaluation & Weight Log]
-```
-
+* **Operating Entity:** Asociación FabLab Mérida.  
+* **Funding Entity:** Diputación Provincial de Badajoz (via Dynamic Purchasing System \- File 202/25).  
+* **Derived Contract:** CON-SD/2026/40 (File 237/26) — *€8,898.70 (VAT Exempt)*.  
 * **Main Venue:** El Hospital Centro Vivo (Badajoz).  
-* **Frequency:** Monthly sessions following the official tender schedule.  
-* **Open Reference Resources:**  
-  * 🌐 [Repair Café International](https://www.repaircafe.org)  
-  * 🛠️ [iFixit Free Repair Manuals](https://www.ifixit.com)
+* **Methodology:** *"Learning by Repairing"* (Assisted co-repair between citizens and technicians, promoting technological sovereignty and tracking avoided electronic/household waste).  
+* **Repair Categories:** Household electronics, textiles/clothing, bicycles/mobility, toys/furniture, and mobile phones.
 
-## 📋 5\. Data Protection & Legal Disclaimer
+---
 
-* **Data Protection:** Participant data collection complies strictly with the European General Data Protection Regulation (GDPR) and national data protection laws.  
-* **Disclaimer:** Repair activities are educational and collaborative. Technicians and organizers provide guidance and support, but do not guarantee complete repairs or assume liability for pre-existing device defects.
+## 📂 Documentation Map (Where is everything?)
 
-## ✉️ Contact & Coordination
+All project documentation is structured into **5 thematic folders** for easy navigation and download:
 
-* **Organizing Entity:** FabLab Mérida Association  
-* **Technical Coordinator:** Javier García González  
-* **Contact Email:** `cgomezlanderoh@gmail.com` / `fablabmerida@gmail.com`  
-* **Funding & Collaborating Body:** Area of Environmental Sustainability, Energy, and Green Territory (Diputación de Badajoz).
+### 📑 [`01_Licitacion_y_Administracion/`](./01_Licitacion_y_Administracion/)
+
+> **Target Audience:** Public administrations, project managers, and procurement officers.  
+> Contains the entire legal and administrative framework under the Spanish Public Sector Contracts Law (LCSP): specifications (PCAP and PPT), technical/financial proposals, ESPD (DEUC), award resolution, and positive acceptance certificates.
+
+### 💳 [`02_Registro_y_Facturacion_FACe/`](./02_Registro_y_Facturacion_FACe/)
+
+> **Target Audience:** Treasury departments, association administrators, and financial officers.  
+> Gathers electronic registration receipts (PLYCA/SIR), third-party bank certificates, and the parameter guide for electronic invoicing via the FACe platform.
+
+### 📋 [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/)
+
+> **Target Audience:** Project coordinators and technical directors.  
+> Includes the **Complete Technical Report by FabLab Mérida**, internal budget breakdowns (hours, mileage, consumables), and detailed tool/consumable inventories per repair category.
+
+### 🧰 [`04_Toolkit_Operativo_Campo/`](./04_Toolkit_Operativo_Campo/)
+
+> **Target Audience:** Field teams, repair specialists, and event organizers.  
+> Contains all **ready-to-print operational forms**: reception/triage sheets, liability waivers, waste tracking records, citizen satisfaction surveys, and space/signage layout plans.
+
+### 📚 [`05_Fuentes_y_Referencias/`](./05_Fuentes_y_Referencias/)
+
+> **Target Audience:** Researchers, community facilitators, and open-knowledge advocates.  
+> Links and guides regarding iFixit, Repair Café International, and the comparative case study between Badajoz's institutional model and Messejana's (Portugal) autonomous community model.
+
+---
+
+## 🚀 How to use these resources to replicate the model?
+
+1. **If you want to pitch the idea to your Local Government / Council:** Check the procurement guide in [`01_Licitacion_y_Administracion/`](./01_Licitacion_y_Administracion/) and the Technical Narrative in [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).  
+2. **If you are preparing your first live event:** Download the ready-to-use field forms in [`04_Toolkit_Operativo_Campo/`](./04_Toolkit_Operativo_Campo/).  
+3. **If you need to assemble the workshop toolset:** Review the tool inventory in [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).
+
+---
+
+## 📜 License and Authorship
+
+* **Authorship:** Asociación FabLab Mérida (Javier García González, Víctor Gallardo Sánchez, Carlos Gómez-Landero Hernández).  
+* **License:** All operational documentation is shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to share, adapt, and build upon these materials, provided original authorship is attributed.
