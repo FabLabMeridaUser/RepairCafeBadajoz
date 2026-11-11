@@ -1,4 +1,4 @@
-[![Español](https://img.shields.io/badge/Language-Español-blue.svg)](./README_es.md) 
+[![Español](https://img.shields.io/badge/Language-Español-blue.svg)](./README_ES.md) 
 
 # 🛠️ Repair Café Badajoz — Circular Economy & Community Repair Project
 
