@@ -9,7 +9,7 @@ Bienvenido/a al repositorio oficial de documentación y recursos del **Proyecto 
 
 ## 📌 ¿Qué es este repositorio?
 
-Este repositorio reúne y organiza **toda la arquitectura documental, administrativa, técnica y operativa** que hizo posible la puesta en marcha de 12 sesiones itinerantes de Repair Café en la provincia de Badajoz bajo el marco de la contratación pública.
+Este repositorio reúne y organiza **toda la arquitectura documental, administrativa, técnica y operativa** que hizo posible la puesta en marcha de 12 sesiones de Repair Café en la provincia de Badajoz bajo el marco de la contratación pública.
 
 Su objetivo es servir como **guía abierta y replicable** para cualquier colectivo, asociación o administración pública que quiera impulsar talleres comunitarios de reparación y soberanía tecnológica en su territorio.
 
