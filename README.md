@@ -1,3 +1,5 @@
+[![Español](https://img.shields.io/badge/Language-Español-blue.svg)](./README_es.md) 
+
 # 🛠️ Repair Café Badajoz — Circular Economy & Community Repair Project
 
 Welcome to the central documentation repository for the **Repair Café Badajoz** project, an initiative led by the **FabLab Mérida Association** in collaboration with the **Diputación de Badajoz** and hosted at **El Hospital Centro Vivo**.
