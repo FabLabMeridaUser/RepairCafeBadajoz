@@ -27,7 +27,7 @@ Its main goal is to serve as an **open and replicable guide** for any group, ass
 
 ## 📂 Documentation Map (Where is everything?)
 
-All project documentation is structured into **5 thematic folders** for easy navigation and download:
+All project documentation is structured into **4 thematic folders** for easy navigation and download:
 
 ### 📑 [`01_Licitacion_y_Administracion/`](./01_Licitacion_y_Administracion/)
 
@@ -48,11 +48,6 @@ All project documentation is structured into **5 thematic folders** for easy nav
 
 > **Target Audience:** Field teams, repair specialists, and event organizers.  
 > Contains all **ready-to-print operational forms**: reception/triage sheets, liability waivers, waste tracking records, citizen satisfaction surveys, and space/signage layout plans.
-
-### 📚 [`05_Fuentes_y_Referencias/`](./05_Fuentes_y_Referencias/)
-
-> **Target Audience:** Researchers, community facilitators, and open-knowledge advocates.  
-> Links and guides regarding iFixit, Repair Café International, and the comparative case study between Badajoz's institutional model and Messejana's (Portugal) autonomous community model.
 
 ---
 
