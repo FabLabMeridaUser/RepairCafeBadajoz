@@ -29,7 +29,7 @@ Su objetivo es servir como **guía abierta y replicable** para cualquier colecti
 
 ## 📂 Mapa de la Documentación (¿Dónde está cada cosa?)
 
-Toda la documentación original del proyecto se ha organizado en **5 carpetas temáticas** para facilitar su lectura y descarga:
+Toda la documentación original del proyecto se ha organizado en **4 carpetas temáticas** para facilitar su lectura y descarga:
 
 ### 📑 [01_Licitacion_y_Administracion/](./01_Licitacion_y_Administracion/)
 > **Para quién:** Administraciones públicas, gestores de proyectos y responsables de contratación.  
@@ -46,10 +46,6 @@ Incluye la **Memoria Técnica completas del FabLab Mérida**, el desglose presup
 ### 🧰 [04_Toolkit_Operativo_Campo/](./04_Toolkit_Operativo_Campo/)
 > **Para quién:** Equipos de campo, reparadores y organizadores del evento.  
 Contiene todos los **impresos utilizables en sala**: fichas de triaje/recepción, hojas de exención de responsabilidad, registro de pesaje de residuos evitados, encuestas ciudadanas y actas de distribución de espacio/señalética.
-
-### 📚 [05_Fuentes_y_Referencias/](./05_Fuentes_y_Referencias/)
-> **Para quién:** Investigadores, dinamizadores comunitarios y curiosos.  
-Enlaces y guías sobre iFixit, Repair Café International y el estudio comparativo entre el modelo institucional de Badajoz y el modelo comunitario autónomo de Messejana (Portugal).
 
 ---
 
