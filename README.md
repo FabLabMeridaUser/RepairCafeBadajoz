@@ -62,5 +62,5 @@ All project documentation is structured into **4 thematic folders** for easy nav
 
 ## 📜 License and Authorship
 
-* **Authorship:** Asociación FabLab Mérida (Javier García González, Víctor Gallardo Sánchez, Carlos Gómez-Landero Hernández).  
+* **Authorship:** Asociación FabLab Mérida (Javier García González, Carlos Gómez-Landero Hernández).  
 * **License:** All operational documentation is shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to share, adapt, and build upon these materials, provided original authorship is attributed.
