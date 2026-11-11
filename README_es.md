@@ -13,6 +13,7 @@ Este repositorio reúne y organiza **toda la arquitectura documental, administra
 
 Su objetivo es servir como **guía abierta y replicable** para cualquier colectivo, asociación o administración pública que quiera impulsar talleres comunitarios de reparación y soberanía tecnológica en su territorio.
 
+
 ---
 
 ## 💡 El Proyecto en Sintesis
@@ -54,9 +55,10 @@ Enlaces y guías sobre iFixit, Repair Café International y el estudio comparati
 
 ## 🚀 ¿Cómo usar estos materiales para replicar el modelo?
 
-1. **Si quieres presentar la idea a tu Ayuntamiento o Diputación:** Consulta la guía en [`01_Licitacion_y_Administracion/`](./01_Licitacion_y_Administracion/) y la Memoria de [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).
-2. **Si vas a organizar la primera jornada:** Descarga los impresos listos para imprimir en [`04_Toolkit_Operativo_Campo/`](./04_Toolkit_Operativo_Campo/).
-3. **Si necesitas saber qué herramientas comprar:** Revisa el inventario en [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).
+1. **Lee ./01_RepairCaféSupportDoc_ESP.pdf** antes de empezar, es el manual de este proyecto.
+2. **Si quieres presentar la idea a tu Ayuntamiento o Diputación:** Consulta la guía en [`01_Licitacion_y_Administracion/`](./01_Licitacion_y_Administracion/) y la Memoria de [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).
+3. **Si vas a organizar la primera jornada:** Descarga los impresos listos para imprimir en [`04_Toolkit_Operativo_Campo/`](./04_Toolkit_Operativo_Campo/).
+4. **Si necesitas saber qué herramientas comprar:** Revisa el inventario en [`03_Proyecto_Tecnico_y_Presupuesto/`](./03_Proyecto_Tecnico_y_Presupuesto/).
 
 ---
 
