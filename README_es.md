@@ -60,5 +60,5 @@ Contiene todos los **impresos utilizables en sala**: fichas de triaje/recepción
 
 ## 📜 Licencia y Autoría
 
-* **Autoría:** Asociación FabLab Mérida (Javier García González, Víctor Gallardo Sánchez, Carlos Gómez-Landero Hernández).
+* **Autoría:** Asociación FabLab Mérida (Javier García González, Carlos Gómez-Landero Hernández).
 * **Licencia:** Toda la documentación operativa se comparte bajo licencia **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Eres libre de compartir, adaptar y utilizar estos materiales citando la fuente original.
